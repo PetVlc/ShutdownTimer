@@ -1,0 +1,17 @@
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\bin\Debug\net7.0-windows\ShutdownTimer.exe
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\bin\Debug\net7.0-windows\ShutdownTimer.deps.json
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\bin\Debug\net7.0-windows\ShutdownTimer.runtimeconfig.json
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\bin\Debug\net7.0-windows\ShutdownTimer.dll
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\bin\Debug\net7.0-windows\ShutdownTimer.pdb
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.Form1.resources
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.csproj.GenerateResource.cache
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.AssemblyInfoInputs.cache
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.AssemblyInfo.cs
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.dll
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\refint\ShutdownTimer.dll
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.pdb
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.genruntimeconfig.cache
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ref\ShutdownTimer.dll
+C:\Users\lizzz\Documents\ShutdownTimer\ShutdownTimer\obj\Debug\net7.0-windows\ShutdownTimer.Properties.Resources.resources
